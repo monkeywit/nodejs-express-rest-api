@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodejs-api",
+  "version": "1.0.0",
+  "description": "my first api with nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "monkeywit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
